@@ -1,1 +1,1 @@
-# freedemotrc10safe
+# mynn
